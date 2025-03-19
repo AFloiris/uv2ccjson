@@ -1,5 +1,7 @@
 # uv2ccjson
 
+[中文](README_CN.md) | [English](README.md)
+
 > 参考自: https://github.com/vankubo/uvConvertor  
 > 感谢作者的开源贡献.
 
